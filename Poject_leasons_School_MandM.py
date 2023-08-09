@@ -5,5 +5,5 @@ class Student:
         self.duration = duration
         self.teachername = teachername
       
-
+student_1 = Student()
 
